@@ -69,7 +69,7 @@ class Home extends Component {
                                         <thead>
                                         <tr>
                                             <th>Nome</th>
-                                            <th>Sobre Nome</th>
+                                            <th>Sobrenome</th>
                                             <th>Data de Nascimento</th>
                                         </tr>
                                         </thead>
